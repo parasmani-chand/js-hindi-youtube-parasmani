@@ -14,5 +14,6 @@ console.log(accountEmail);
 console.log(accountPassword);
 console.log(accountCity);
 
-console.table([accountId, accountEmail, accountPassword, accountCity,accountState])
+console.log("These are my details");
+console.table([accountId,accountEmail,accountPassword,accountState]);
 
