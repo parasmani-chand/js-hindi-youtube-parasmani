@@ -11,7 +11,7 @@
 
 
 
-//   ===                //strict check check the data type also not only the value  not work like ==
+//   ===  strict check              //strict check check the data type also not only the value  not work like ==
 console.log("2" === 2)      
 
 
